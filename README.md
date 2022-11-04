@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 100px; width: 100px" />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height: 100px; width: 100px" />
+          
+
 ![Snake animation](https://github.com/anabscruz/anabscruz/blob/output/github-contribution-grid-snake.svg)

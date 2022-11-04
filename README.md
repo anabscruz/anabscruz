@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anabscruz)](https://github.com/anabscruz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anabscruz&theme=dark)](https://github.com/anabscruz/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=anabscruz&show_icons=true&theme=dark"/>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 50px; width: 50px;" />

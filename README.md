@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anabscruz)](https://github.com/anabscruz/github-readme-stats)
 
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
+
  ![Snake animation](https://github.com/anabscruz/anabscruz/blob/output/github-contribution-grid-snake.svg)
